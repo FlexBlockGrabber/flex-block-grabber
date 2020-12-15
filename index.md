@@ -1,3 +1,13 @@
+## Amazon Flex Block Grabber
+
+Are other people taking all the blocks in your area? Are you struggling to find the time to accept blocks?
+Meet **Flex Block Grabber**.
+
+Everything is done automaticallly for you. The constant refreshing, hoping you see the block as it comes in before it's too late. All automated now.
+The headaches are gone. The peace of mind is all yours.
+
+Simply purchase your license, and follow the very simple to setup application, and you'll be up and running in 10 minutes or less.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FlexBlockGrabber/flex-block-grabber/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
